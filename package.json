@@ -9,7 +9,7 @@
     "type": "git",
     "url": "git://github.com/jdarling/MongoMQ.git"
   },
-  "main": "./lib/lib",
+  "main": "./lib/lib.js",
   "contributors": [
     {
       "name": "mfrobben"
